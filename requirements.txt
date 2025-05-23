@@ -1,0 +1,7 @@
+pinecone
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+rank_bm25
+langchain-google-genai
